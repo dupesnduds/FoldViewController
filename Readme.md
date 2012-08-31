@@ -6,7 +6,7 @@ See [https://github.com/edgecase/ECSlidingViewController] for details on usage.
 
 ## NOTES
 
-* This is a `thin` version of ECSlidingViewController
+* This is a `thin` version of ECSlidingViewController. Don't expect much.
 * Look at [https://github.com/Tumunu/FoldViewController/blob/master/FoldViewController/MenuViewController.m] for enlightenment.
 
 
